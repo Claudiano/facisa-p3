@@ -6,7 +6,6 @@ public class No {
 
 	private Vector<Vertice> lista = new Vector<>();
 	
-	public No
 	
 	
 }
